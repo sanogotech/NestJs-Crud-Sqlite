@@ -35,6 +35,10 @@ $ npm cache clear --force
 $ npm config set registry https://registry.npmjs.org/
 $ npm install
 ```
+* SQLite
+```bash 
+npm install sqlite3 --save
+```bash
 
 ## Running the app
 
