@@ -38,7 +38,7 @@ $ npm install
 * SQLite
 ```bash 
 npm install sqlite3 --save
-```bash
+```
 
 ## Running the app
 
