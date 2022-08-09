@@ -32,6 +32,7 @@
 
 ```bash
 $ npm cache clear --force
+$ npm cache verify
 $ npm config set registry https://registry.npmjs.org/
 $ npm install
 ```
