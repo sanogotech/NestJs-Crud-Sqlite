@@ -30,6 +30,8 @@
 
 ##  Docs
 - https://docs.nestjs.com/techniques/configuration
+- https://docs.nestjs.com/openapi/introduction
+
 
 ## Installation
 
@@ -43,6 +45,12 @@ $ npm install
 ```bash 
 npm install sqlite3 --save
 ```
+* SWAGGER API DOC
+
+```bash 
+$ npm install --save @nestjs/swagger  --force
+```
+
 
 ## Running the app
 
